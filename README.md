@@ -12,6 +12,10 @@ Based on [@BRH0208's Beyond Death](https://github.com/Incode-Laboratories/Beyond
     * See if you can get the devil to notice your paddle by a campfire.
 * Code Fixes
   * Fixed a a bit of code: backwards loops, typos.
+# Installing
+Go to the [Releases](../../Releases) page and download for your platform.
+## Live
+There currently is no live or online version of the Paddle Mod
 
 Debugging
 ---------
